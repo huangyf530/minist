@@ -1,2 +1,1 @@
-"# minist" 
 AIHomework3
